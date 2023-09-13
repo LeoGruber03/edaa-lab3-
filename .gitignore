@@ -4,5 +4,4 @@
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
 
-$ clip < ~/.ssh/id_ed25519.pub
-# Copies the contents of the id_ed25519.pub file to your clipboard
+
